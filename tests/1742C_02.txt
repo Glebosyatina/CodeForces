@@ -1,0 +1,9 @@
+2
+
+rrr
+..r
+bbr
+
+rrb
+bbb
+..b
